@@ -1,0 +1,1608 @@
+{
+  "G001": {
+    "global_id": "G001",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 134,
+      "seconds": 4.433
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 1,
+        "first_frame": 3,
+        "last_frame": 134,
+        "total_frames": 132,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 4.433,
+        "duration_seconds": 4.4,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G002": {
+    "global_id": "G002",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 4,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G003": {
+    "global_id": "G003",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby3"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 219,
+      "seconds": 7.267
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 2,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "left"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 7,
+        "first_frame": 3,
+        "last_frame": 219,
+        "total_frames": 217,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 7.267,
+        "duration_seconds": 7.233,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7879,
+        "best_match_global_id": "G003",
+        "similarity_margin": 0.073,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G004": {
+    "global_id": "G004",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 3,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G005": {
+    "global_id": "G005",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby3"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 5,
+        "first_frame": 3,
+        "last_frame": 237,
+        "total_frames": 235,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 7.867,
+        "duration_seconds": 7.833,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "left"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 6,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.8916,
+        "best_match_global_id": "G005",
+        "similarity_margin": 0.1418,
+        "spatial_direction": "up"
+      }
+    ]
+  },
+  "G006": {
+    "global_id": "G006",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby3"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 6,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 24,
+        "first_frame": 149,
+        "last_frame": 250,
+        "total_frames": 102,
+        "first_seen_seconds": 4.933,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 3.4,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7584,
+        "best_match_global_id": "G006",
+        "similarity_margin": 0.1299,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G007": {
+    "global_id": "G007",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby3"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 7,
+        "first_frame": 3,
+        "last_frame": 82,
+        "total_frames": 80,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 2.7,
+        "duration_seconds": 2.667,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "left"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 15,
+        "first_frame": 49,
+        "last_frame": 250,
+        "total_frames": 202,
+        "first_seen_seconds": 1.6,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 6.733,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.812,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.1503,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G008": {
+    "global_id": "G008",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 36,
+      "seconds": 1.167
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 109,
+      "seconds": 3.6
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 11,
+        "first_frame": 36,
+        "last_frame": 109,
+        "total_frames": 74,
+        "first_seen_seconds": 1.167,
+        "last_seen_seconds": 3.6,
+        "duration_seconds": 2.467,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G009": {
+    "global_id": "G009",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 46,
+      "seconds": 1.5
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 194,
+      "seconds": 6.433
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 12,
+        "first_frame": 46,
+        "last_frame": 194,
+        "total_frames": 149,
+        "first_seen_seconds": 1.5,
+        "last_seen_seconds": 6.433,
+        "duration_seconds": 4.967,
+        "match_status": "NEW_IDENTITY",
+        "match_confidence": 1.0,
+        "best_match_global_id": "NONE",
+        "similarity_margin": 0.0,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G010": {
+    "global_id": "G010",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 96,
+      "seconds": 3.167
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 16,
+        "first_frame": 96,
+        "last_frame": 250,
+        "total_frames": 155,
+        "first_seen_seconds": 3.167,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 5.167,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.4793,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.4793,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G011": {
+    "global_id": "G011",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 119,
+      "seconds": 3.933
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 18,
+        "first_frame": 119,
+        "last_frame": 250,
+        "total_frames": 132,
+        "first_seen_seconds": 3.933,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.4,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6227,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.0795,
+        "spatial_direction": "stationary"
+      }
+    ]
+  },
+  "G012": {
+    "global_id": "G012",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 124,
+      "seconds": 4.1
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 19,
+        "first_frame": 124,
+        "last_frame": 250,
+        "total_frames": 127,
+        "first_seen_seconds": 4.1,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.233,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6106,
+        "best_match_global_id": "G008",
+        "similarity_margin": 0.0519,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G013": {
+    "global_id": "G013",
+    "total_sightings": 4,
+    "cameras_count": 3,
+    "cameras": [
+      "lobby2",
+      "lobby3",
+      "lobby4"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 202,
+      "seconds": 6.7
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 1,
+        "first_frame": 3,
+        "last_frame": 95,
+        "total_frames": 93,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 3.133,
+        "duration_seconds": 3.1,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7562,
+        "best_match_global_id": "G013",
+        "similarity_margin": 0.1121,
+        "spatial_direction": "down"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 8,
+        "first_frame": 6,
+        "last_frame": 250,
+        "total_frames": 245,
+        "first_seen_seconds": 0.167,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.167,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.748,
+        "best_match_global_id": "G013",
+        "similarity_margin": 0.0965,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 20,
+        "first_frame": 125,
+        "last_frame": 250,
+        "total_frames": 126,
+        "first_seen_seconds": 4.133,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.2,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6607,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.2494,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 18,
+        "first_frame": 128,
+        "last_frame": 202,
+        "total_frames": 75,
+        "first_seen_seconds": 4.233,
+        "last_seen_seconds": 6.7,
+        "duration_seconds": 2.5,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7638,
+        "best_match_global_id": "G013",
+        "similarity_margin": 0.1654,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G014": {
+    "global_id": "G014",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby4"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 122,
+      "seconds": 4.033
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 14,
+        "first_frame": 122,
+        "last_frame": 250,
+        "total_frames": 129,
+        "first_seen_seconds": 4.033,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.3,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.801,
+        "best_match_global_id": "G014",
+        "similarity_margin": 0.1876,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 21,
+        "first_frame": 137,
+        "last_frame": 250,
+        "total_frames": 114,
+        "first_seen_seconds": 4.533,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 3.8,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5948,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.1418,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G015": {
+    "global_id": "G015",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 156,
+      "seconds": 5.167
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 23,
+        "first_frame": 156,
+        "last_frame": 250,
+        "total_frames": 95,
+        "first_seen_seconds": 5.167,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 3.167,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5012,
+        "best_match_global_id": "G008",
+        "similarity_margin": 0.0118,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G016": {
+    "global_id": "G016",
+    "total_sightings": 3,
+    "cameras_count": 3,
+    "cameras": [
+      "lobby2",
+      "lobby3",
+      "lobby4"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 14,
+      "seconds": 0.433
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 7,
+        "first_frame": 14,
+        "last_frame": 250,
+        "total_frames": 237,
+        "first_seen_seconds": 0.433,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 7.9,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7745,
+        "best_match_global_id": "G016",
+        "similarity_margin": 0.0553,
+        "spatial_direction": "left"
+      },
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 24,
+        "first_frame": 157,
+        "last_frame": 250,
+        "total_frames": 94,
+        "first_seen_seconds": 5.2,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 3.133,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6122,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.1425,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 26,
+        "first_frame": 160,
+        "last_frame": 250,
+        "total_frames": 91,
+        "first_seen_seconds": 5.3,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 3.033,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.8028,
+        "best_match_global_id": "G016",
+        "similarity_margin": 0.169,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G017": {
+    "global_id": "G017",
+    "total_sightings": 2,
+    "cameras_count": 2,
+    "cameras": [
+      "lobby2",
+      "lobby4"
+    ],
+    "is_multicamera": true,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 87,
+      "seconds": 2.867
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 11,
+        "first_frame": 87,
+        "last_frame": 211,
+        "total_frames": 125,
+        "first_seen_seconds": 2.867,
+        "last_seen_seconds": 7.0,
+        "duration_seconds": 4.167,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.787,
+        "best_match_global_id": "G017",
+        "similarity_margin": 0.1699,
+        "spatial_direction": "down"
+      },
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 26,
+        "first_frame": 204,
+        "last_frame": 250,
+        "total_frames": 47,
+        "first_seen_seconds": 6.767,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 1.567,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5919,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.0086,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G018": {
+    "global_id": "G018",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby2"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 219,
+      "seconds": 7.267
+    },
+    "last_detected": {
+      "camera_id": "lobby2",
+      "source_video": "lobby2.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby2",
+        "source_video": "lobby2.mp4",
+        "local_track_id": 29,
+        "first_frame": 219,
+        "last_frame": 250,
+        "total_frames": 32,
+        "first_seen_seconds": 7.267,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 1.067,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5465,
+        "best_match_global_id": "G008",
+        "similarity_margin": 0.0546,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G019": {
+    "global_id": "G019",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 89,
+      "seconds": 2.933
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 1,
+        "first_frame": 3,
+        "last_frame": 89,
+        "total_frames": 87,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 2.933,
+        "duration_seconds": 2.9,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5719,
+        "best_match_global_id": "G016",
+        "similarity_margin": 0.0393,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G020": {
+    "global_id": "G020",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 216,
+      "seconds": 7.167
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 2,
+        "first_frame": 3,
+        "last_frame": 216,
+        "total_frames": 214,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 7.167,
+        "duration_seconds": 7.133,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.588,
+        "best_match_global_id": "G001",
+        "similarity_margin": 0.051,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G021": {
+    "global_id": "G021",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 118,
+      "seconds": 3.9
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 3,
+        "first_frame": 3,
+        "last_frame": 118,
+        "total_frames": 116,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 3.9,
+        "duration_seconds": 3.867,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5753,
+        "best_match_global_id": "G016",
+        "similarity_margin": 0.003,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G022": {
+    "global_id": "G022",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 113,
+      "seconds": 3.733
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 4,
+        "first_frame": 3,
+        "last_frame": 113,
+        "total_frames": 111,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 3.733,
+        "duration_seconds": 3.7,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5983,
+        "best_match_global_id": "G012",
+        "similarity_margin": 0.0504,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G023": {
+    "global_id": "G023",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 5,
+        "first_frame": 3,
+        "last_frame": 250,
+        "total_frames": 248,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 8.267,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6922,
+        "best_match_global_id": "G013",
+        "similarity_margin": 0.0269,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G024": {
+    "global_id": "G024",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 24,
+      "seconds": 0.767
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 13,
+        "first_frame": 24,
+        "last_frame": 250,
+        "total_frames": 227,
+        "first_seen_seconds": 0.767,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 7.567,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5888,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.0882,
+        "spatial_direction": "stationary"
+      }
+    ]
+  },
+  "G025": {
+    "global_id": "G025",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 103,
+      "seconds": 3.4
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 154,
+      "seconds": 5.1
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 18,
+        "first_frame": 103,
+        "last_frame": 154,
+        "total_frames": 52,
+        "first_seen_seconds": 3.4,
+        "last_seen_seconds": 5.1,
+        "duration_seconds": 1.733,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5885,
+        "best_match_global_id": "G006",
+        "similarity_margin": 0.0267,
+        "spatial_direction": "up"
+      }
+    ]
+  },
+  "G026": {
+    "global_id": "G026",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 108,
+      "seconds": 3.567
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 177,
+      "seconds": 5.867
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 19,
+        "first_frame": 108,
+        "last_frame": 177,
+        "total_frames": 70,
+        "first_seen_seconds": 3.567,
+        "last_seen_seconds": 5.867,
+        "duration_seconds": 2.333,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5853,
+        "best_match_global_id": "G006",
+        "similarity_margin": 0.0227,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G027": {
+    "global_id": "G027",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 114,
+      "seconds": 3.767
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 20,
+        "first_frame": 114,
+        "last_frame": 250,
+        "total_frames": 137,
+        "first_seen_seconds": 3.767,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.567,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5355,
+        "best_match_global_id": "G011",
+        "similarity_margin": 0.0009,
+        "spatial_direction": "stationary"
+      }
+    ]
+  },
+  "G028": {
+    "global_id": "G028",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 126,
+      "seconds": 4.167
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 185,
+      "seconds": 6.133
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 22,
+        "first_frame": 126,
+        "last_frame": 185,
+        "total_frames": 60,
+        "first_seen_seconds": 4.167,
+        "last_seen_seconds": 6.133,
+        "duration_seconds": 2.0,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6013,
+        "best_match_global_id": "G006",
+        "similarity_margin": 0.0194,
+        "spatial_direction": "up"
+      }
+    ]
+  },
+  "G029": {
+    "global_id": "G029",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby3"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 162,
+      "seconds": 5.367
+    },
+    "last_detected": {
+      "camera_id": "lobby3",
+      "source_video": "lobby3.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby3",
+        "source_video": "lobby3.mp4",
+        "local_track_id": 27,
+        "first_frame": 162,
+        "last_frame": 250,
+        "total_frames": 89,
+        "first_seen_seconds": 5.367,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 2.967,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.5269,
+        "best_match_global_id": "G012",
+        "similarity_margin": 0.0323,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G030": {
+    "global_id": "G030",
+    "total_sightings": 2,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 3,
+      "seconds": 0.067
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 2,
+        "first_frame": 3,
+        "last_frame": 59,
+        "total_frames": 57,
+        "first_seen_seconds": 0.067,
+        "last_seen_seconds": 1.933,
+        "duration_seconds": 1.9,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6784,
+        "best_match_global_id": "G006",
+        "similarity_margin": 0.0555,
+        "spatial_direction": "right"
+      },
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 17,
+        "first_frame": 126,
+        "last_frame": 250,
+        "total_frames": 125,
+        "first_seen_seconds": 4.167,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 4.167,
+        "match_status": "REIDENTIFIED",
+        "match_confidence": 0.7509,
+        "best_match_global_id": "G030",
+        "similarity_margin": 0.0741,
+        "spatial_direction": "right"
+      }
+    ]
+  },
+  "G031": {
+    "global_id": "G031",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 32,
+      "seconds": 1.033
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 8,
+        "first_frame": 32,
+        "last_frame": 250,
+        "total_frames": 219,
+        "first_seen_seconds": 1.033,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 7.3,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6426,
+        "best_match_global_id": "G023",
+        "similarity_margin": 0.0265,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G032": {
+    "global_id": "G032",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 85,
+      "seconds": 2.8
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 10,
+        "first_frame": 85,
+        "last_frame": 250,
+        "total_frames": 166,
+        "first_seen_seconds": 2.8,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 5.533,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6584,
+        "best_match_global_id": "G011",
+        "similarity_margin": 0.0054,
+        "spatial_direction": "down"
+      }
+    ]
+  },
+  "G033": {
+    "global_id": "G033",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 92,
+      "seconds": 3.033
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 166,
+      "seconds": 5.5
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 12,
+        "first_frame": 92,
+        "last_frame": 166,
+        "total_frames": 75,
+        "first_seen_seconds": 3.033,
+        "last_seen_seconds": 5.5,
+        "duration_seconds": 2.5,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6475,
+        "best_match_global_id": "G018",
+        "similarity_margin": 0.036,
+        "spatial_direction": "down"
+      }
+    ]
+  },
+  "G034": {
+    "global_id": "G034",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 163,
+      "seconds": 5.4
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 20,
+        "first_frame": 163,
+        "last_frame": 250,
+        "total_frames": 88,
+        "first_seen_seconds": 5.4,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 2.933,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6325,
+        "best_match_global_id": "G004",
+        "similarity_margin": 0.0089,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G035": {
+    "global_id": "G035",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 164,
+      "seconds": 5.433
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 250,
+      "seconds": 8.3
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 21,
+        "first_frame": 164,
+        "last_frame": 250,
+        "total_frames": 87,
+        "first_seen_seconds": 5.433,
+        "last_seen_seconds": 8.3,
+        "duration_seconds": 2.9,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6043,
+        "best_match_global_id": "G010",
+        "similarity_margin": 0.0576,
+        "spatial_direction": "left"
+      }
+    ]
+  },
+  "G036": {
+    "global_id": "G036",
+    "total_sightings": 1,
+    "cameras_count": 1,
+    "cameras": [
+      "lobby4"
+    ],
+    "is_multicamera": false,
+    "first_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 192,
+      "seconds": 6.367
+    },
+    "last_detected": {
+      "camera_id": "lobby4",
+      "source_video": "lobby4.mp4",
+      "frame": 243,
+      "seconds": 8.067
+    },
+    "traversal_timeline": [
+      {
+        "camera_id": "lobby4",
+        "source_video": "lobby4.mp4",
+        "local_track_id": 22,
+        "first_frame": 192,
+        "last_frame": 243,
+        "total_frames": 52,
+        "first_seen_seconds": 6.367,
+        "last_seen_seconds": 8.067,
+        "duration_seconds": 1.733,
+        "match_status": "BELOW_THRESHOLD",
+        "match_confidence": 0.6881,
+        "best_match_global_id": "G007",
+        "similarity_margin": 0.0482,
+        "spatial_direction": "stationary"
+      }
+    ]
+  }
+}
